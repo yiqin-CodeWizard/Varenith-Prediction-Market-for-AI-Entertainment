@@ -1,7 +1,7 @@
 
   # Varenith Prediction Platform
 
-  This is a code bundle for Varenith Prediction Platform. The original project is available at https://www.figma.com/design/32NUj2SrwWF7dRltXIzsF9/Varenith-Prediction-Platform.
+  This is a proprietary code base, do not use for commercial.
 
   ## Running the code
 
